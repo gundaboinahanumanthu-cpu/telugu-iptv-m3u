@@ -7,7 +7,8 @@
 
 ### 🖼 Preview & Player Setup
 
-![Telugu IPTV Preview](preview.png)
+![Telugu IPTV Preview](preview.jpg)
+
 
 ---
 
